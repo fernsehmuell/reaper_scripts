@@ -27,3 +27,4 @@ Copy the .lua files to your Reaper scripts directory or any other directory you 
 Press the "Load..." button on the lower right side. Select all of the fernsehmuell_ scripts and press Open/Enter.
 You can find the scripts in the action list under: Script: fernsehmuell_... Now assign Keyboardshortcuts to each script ("Add..." button)
 The recommended key is the letter in () at the end of the filename.
+If you have problems using the Reverse_Play_Shuttle_(J) script or renamed the background-script, then you have to edit the script and insert the new command_id. 
