@@ -1,3 +1,8 @@
+-- @version 1.0
+-- @author Udo Sauer
+-- @changelog
+--   Initial release
+
 function goto_in()
     playstate=reaper.GetPlayState() --0 stop, 1 play, 2 pause, 4 rec
     if playstate==1 then reaper.Main_OnCommand(1016,0) end --stop as mediacomposer does (do we need that?)

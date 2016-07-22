@@ -1,3 +1,8 @@
+-- @version 1.0
+-- @author Udo Sauer
+-- @changelog
+--   Initial release
+
 function main()
     reaper.Undo_BeginBlock()
         in_pos, out_pos = reaper.GetSet_LoopTimeRange(0,0,0,0,0) --get start and end point

@@ -1,3 +1,8 @@
+-- @version 1.0
+-- @author Udo Sauer
+-- @changelog
+--   Initial release
+
 function clear_all_out_markers()
     retval, marker_count, regions_count = reaper.CountProjectMarkers(0) -- get number of markers
     for i=marker_count-1,0,-1 do -- count backwards, so numbering of markers does not change!

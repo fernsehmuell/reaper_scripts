@@ -1,3 +1,8 @@
+-- @version 1.0
+-- @author Udo Sauer
+-- @changelog
+--   Initial release
+
 debug=false
 function dbg(text)
     if debug then reaper.ShowConsoleMsg(tostring(text).."\n") end

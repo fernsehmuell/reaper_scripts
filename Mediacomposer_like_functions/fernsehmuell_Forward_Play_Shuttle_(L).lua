@@ -1,3 +1,8 @@
+-- @version 1.0
+-- @author Udo Sauer
+-- @changelog
+--   Initial release
+
 function incr_pbrate(n) -- increase rate ~6% n times
     n=math.min(n,200) -- limit n to 200
     for i=1, n, 1 do

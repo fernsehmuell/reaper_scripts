@@ -1,3 +1,8 @@
+-- @version 1.0
+-- @author Udo Sauer
+-- @changelog
+--   Initial release
+
 function clear_all_in_and_out_markers()
     reaper.Main_OnCommand(40635,0) -- Time selection: Remove time selection (40635)
     reaper.SetProjExtState(0, "Fernsehmuell", "StartpointIsZero", "False") -- clear IN-Point is Zero datastore value

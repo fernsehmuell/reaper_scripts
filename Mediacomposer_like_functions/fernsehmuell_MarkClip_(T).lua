@@ -1,3 +1,8 @@
+-- @version 1.0
+-- @author Udo Sauer
+-- @changelog
+--   Initial release
+
 --emulate avid mediacomposer MARK CLIP functionality
 --if one or more tracks are selected only use these tracks
 --if no track is selected search for nearest cuts to cursor position in all tracks and set in/out
