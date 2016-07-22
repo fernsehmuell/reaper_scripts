@@ -1,5 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Fernsehmüll Scripts">
+<index version="1" name="Fernsehmüll Scripts" commit="2d4b3e48ac1f57f45b69df2006db259d91fb5193">
+  <category name="Mediacomposer_like_functions">
+    <reapack name="fernsehmuell_Clear_Both_Marks_(G).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Clear_Both_Marks_(G).lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_Clear_IN_Marks_(D).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Clear_IN_Marks_(D).lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_Clear_OUT_Marks_(F).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Clear_OUT_Marks_(F).lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_Extract_(X).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Extract_(X).lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_Forward_Play_Shuttle_(L).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Forward_Play_Shuttle_(L).lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_GotoIN_(Q).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_GotoIN_(Q).lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_GotoOUT_(W).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_GotoOUT_(W).lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_Lift_(Y).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Lift_(Y).lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_MarkClip_(T).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_MarkClip_(T).lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_Pause_(K).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Pause_(K).lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_Reverse_Play_Shuttle_(J).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_(J).lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_Reverse_Play_Shuttle_Background.lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Reverse_Play_Shuttle_Background.lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_SetIN_(i).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_SetIN_(i).lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_SetOUT_(O).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_SetOUT_(O).lua</source>
+      </version>
+    </reapack>
+  </category>
   <metadata>
     <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
