@@ -28,3 +28,4 @@ Press the "Load..." button on the lower right side. Select all of the fernsehmue
 You can find the scripts in the action list under: Script: fernsehmuell_... Now assign Keyboardshortcuts to each script ("Add..." button)
 The recommended key is the letter in () at the end of the filename.
 If you have problems using the Reverse_Play_Shuttle_(J) script or renamed the background-script, then you have to edit the script and insert the new command_id. 
+If you use the Forward_Play_Shuttle_(L) for the first time a "ReaScript task control" window pops up. Check the checkbox and press "New instance"
