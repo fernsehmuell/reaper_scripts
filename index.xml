@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Fernsehmüll Scripts" commit="2d4b3e48ac1f57f45b69df2006db259d91fb5193">
+<index version="1" name="Fernsehmüll Scripts" commit="0fa269cd67261ead972daa93e7b62ee0dd3fd345">
   <category name="Mediacomposer_like_functions">
     <reapack name="fernsehmuell_Clear_Both_Marks_(G).lua" type="script">
       <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
@@ -83,6 +83,30 @@
       <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
         <changelog><![CDATA[Initial release]]></changelog>
         <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_SetOUT_(O).lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_Step_backwards_400ms_(1).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-09-20T19:52:46Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/0fa269cd67261ead972daa93e7b62ee0dd3fd345/Mediacomposer_like_functions/fernsehmuell_Step_backwards_400ms_(1).lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_Step_backwards_40ms_(3).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-09-20T19:52:46Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/0fa269cd67261ead972daa93e7b62ee0dd3fd345/Mediacomposer_like_functions/fernsehmuell_Step_backwards_40ms_(3).lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_Step_forwards_400ms_(2).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-09-20T19:52:46Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/0fa269cd67261ead972daa93e7b62ee0dd3fd345/Mediacomposer_like_functions/fernsehmuell_Step_forwards_400ms_(2).lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_Step_forwards_40ms_(4).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-09-20T19:52:46Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/0fa269cd67261ead972daa93e7b62ee0dd3fd345/Mediacomposer_like_functions/fernsehmuell_Step_forwards_40ms_(4).lua</source>
       </version>
     </reapack>
   </category>
