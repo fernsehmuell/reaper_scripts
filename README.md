@@ -21,6 +21,10 @@ Collection of my Reaper Scripts
 * Reverse_Play_Shuttle_Background: Background function used by Reverse_Play_Shuttle_(J) (dont' rename this file!) 
 * Pause_(K): Pause
 * Forward_Play_Shuttle_(L): Play forwards, press multiple times to increase speed
+* Step_backwards_40ms_(3): Step backwards 40ms (1 video frame @25fps)
+* Step_backwards_400ms_(1): Step backwards 400ms (10 video frames @25fps)
+* Step_forwards_40ms_(4): Step forwards 40ms (1 video frame @25fps)
++ Step_backwards_400ms_(2): Step forwards 400ms (10 video frame @25fps)
 
 ##Installation
 Copy the .lua files to your Reaper scripts directory or any other directory you like. In Reaper choose Actions/Show actions list...
