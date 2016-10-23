@@ -11,7 +11,7 @@ end
 
 function main()
   reaper.Undo_BeginBlock()
-  reverse_function=reaper.NamedCommandLookup("_RS34fef017042a3928853cd794b2a58786e835a71a") -- fernsehmuell_Reverse_Play_Shuttle_Background.lua
+  reverse_function=reaper.NamedCommandLookup("_RS100d49e6edef43afecc4b9eed38775eb8c5aefde") -- fernsehmuell_Reverse_Play_Shuttle_Background.lua
   if is_playing_reverse()>0 then
     reaper.SetProjExtState(0, "Fernsehmuell", "Reverse_Play_Shuttle", 2) --set reverse status to 2 -> button pressed again!
   else
