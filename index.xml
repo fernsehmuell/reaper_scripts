@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Fernsehmüll Scripts" commit="0fa269cd67261ead972daa93e7b62ee0dd3fd345">
+<index version="1" name="Fernsehmüll Scripts" commit="dd410ceba68df8223ef089477dee476c220c0453">
   <category name="Mediacomposer_like_functions">
+    <reapack name="fernsehmuell_Add_Edit_(S).lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2016-10-23T14:11:42Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/dd410ceba68df8223ef089477dee476c220c0453/Mediacomposer_like_functions/fernsehmuell_Add_Edit_(S).lua</source>
+      </version>
+    </reapack>
     <reapack name="fernsehmuell_Clear_Both_Marks_(G).lua" type="script">
       <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
         <changelog><![CDATA[Initial release]]></changelog>
