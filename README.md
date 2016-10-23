@@ -13,18 +13,19 @@ Collection of my Reaper Scripts
 * Clear_OUT_Marks_(F): Clear OUT mark
 
 ###Edit
+* Add_Edit_(S): like the Reaper Split function, but this does not split locked items. And it does not mark any items. (you can change this behavior by changing to variables in the script)
 * Extract_(X): Extract time selection on selected tracks
 * Lift_(Y): Lift time selection on selected tracks
 
 ###Navigate
 * Reverse_Play_Shuttle_(J): Move cursor backwards, press multiple times to increase speed
-* Reverse_Play_Shuttle_Background: Background function used by Reverse_Play_Shuttle_(J) (dont' rename this file!) 
+* Reverse_Play_Shuttle_Background: Background function used by Reverse_Play_Shuttle_(J) (don't rename this file!) 
 * Pause_(K): Pause
 * Forward_Play_Shuttle_(L): Play forwards, press multiple times to increase speed
 * Step_backwards_40ms_(3): Step backwards 40ms (1 video frame @25fps)
 * Step_backwards_400ms_(1): Step backwards 400ms (10 video frames @25fps)
 * Step_forwards_40ms_(4): Step forwards 40ms (1 video frame @25fps)
-+ Step_backwards_400ms_(2): Step forwards 400ms (10 video frame @25fps)
+* Step_backwards_400ms_(2): Step forwards 400ms (10 video frame @25fps)
 
 ##Installation
 Copy the .lua files to your Reaper scripts directory or any other directory you like. In Reaper choose Actions/Show actions list...
