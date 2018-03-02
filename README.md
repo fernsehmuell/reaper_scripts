@@ -26,11 +26,13 @@ Collection of my Reaper Scripts
 * Step_backwards_400ms_(1): Step backwards 400ms (10 video frames @25fps)
 * Step_forwards_40ms_(4): Step forwards 40ms (1 video frame @25fps)
 * Step_backwards_400ms_(2): Step forwards 400ms (10 video frame @25fps)
+* Go_to_next_event: Move cursor to next event in selected tracks. If no track is selected move to next event in all tracks
+* Go_to_prev_event: Move cursor to previous event in selected tracks. If no track is selected move to previous event in all tracks
+
 
 ##Installation
 Copy the .lua files to your Reaper scripts directory or any other directory you like. In Reaper choose Actions/Show actions list...
 Press the "Load..." button on the lower right side. Select all of the fernsehmuell_ scripts and press Open/Enter.
 You can find the scripts in the action list under: Script: fernsehmuell_... Now assign Keyboardshortcuts to each script ("Add..." button)
 The recommended key is the letter in () at the end of the filename.
-If you have problems using the Reverse_Play_Shuttle_(J) script or renamed the background-script, then you have to edit the script and insert the new command_id. 
 If you use the Forward_Play_Shuttle_(L) for the first time a "ReaScript task control" window pops up. Check the checkbox and press "New instance"
