@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Fernsehmüll Scripts" commit="5ec2f9892af6a85d09af6cad045d598d5e12deba">
+<index version="1" name="Fernsehmüll Scripts" commit="612fc948d029ca22f7edc070c955b3bd8835671f">
   <category name="Mediacomposer_like_functions">
     <reapack name="fernsehmuell_Add_Edit_(S).lua" type="script">
       <version name="1.0" author="Udo Sauer" time="2016-10-23T14:11:42Z">
@@ -35,6 +35,18 @@
       <version name="1.0" author="Udo Sauer" time="2016-07-22T14:15:06Z">
         <changelog><![CDATA[Initial release]]></changelog>
         <source main="true">https://github.com/fernsehmuell/reaper_scripts/raw/2d4b3e48ac1f57f45b69df2006db259d91fb5193/Mediacomposer_like_functions/fernsehmuell_Forward_Play_Shuttle_(L).lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_Go_to_next_event.lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2018-03-02T19:22:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">https://github.com/fernsehmuell/reaper_scripts/raw/612fc948d029ca22f7edc070c955b3bd8835671f/Mediacomposer_like_functions/fernsehmuell_Go_to_next_event.lua</source>
+      </version>
+    </reapack>
+    <reapack name="fernsehmuell_Go_to_prev_event.lua" type="script">
+      <version name="1.0" author="Udo Sauer" time="2018-03-02T19:22:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">https://github.com/fernsehmuell/reaper_scripts/raw/612fc948d029ca22f7edc070c955b3bd8835671f/Mediacomposer_like_functions/fernsehmuell_Go_to_prev_event.lua</source>
       </version>
     </reapack>
     <reapack name="fernsehmuell_GotoIN_(Q).lua" type="script">
